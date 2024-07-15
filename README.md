@@ -11,14 +11,13 @@ The initial "Info" tab in the app contains links to 3 info pages that walk throu
 <br>
 </details>
 
-<br>
-
 <details>
 <summary>How much does "Zen: Focus Garden" cost?</summary>
 <br>
 "Zen: Focus Garden" is free for now - we want to focus on building a user base while the Vision Pro is in its early days. As the app continues to grow, we may switch to a paid model.
-<br>
 </details>
+
+<br>
 
 ## Support Contact
 
